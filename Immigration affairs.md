@@ -16,7 +16,7 @@ https://www.rug.nl/education/documents/immigration/incomplete-application-form-s
 
 بعد از جواب مثبت از IND به ایمیل سفارت یه درخواست وقت میفرستیم.
 
-### لگالایز مدارک
+## لگالایز مدارک
 - Birth certificate (شناسنامه)
 - Marriage certificate (گواهی تاهل|تجرد که از ثبت احوال باید بگیرین)
 - 

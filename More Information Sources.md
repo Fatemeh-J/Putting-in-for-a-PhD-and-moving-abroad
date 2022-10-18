@@ -23,7 +23,7 @@ http://myuniversity.rug.nl/infonet/medewerkers/fse/gradschoolscience/trainingpro
 3) This is the ACLO Sport Centre website
 http://www.aclosport.nl/en/
 
-4) This is about zorgtoeslag (Housing allowance)
+4) This is about zorgtoeslag (Insurance allowance)
 https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/toeslagen/zorgtoeslag/zorgtoeslag-2017/zorgtoeslag-2017
 
 5) DigiD application

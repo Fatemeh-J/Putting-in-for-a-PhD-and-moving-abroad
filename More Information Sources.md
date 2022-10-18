@@ -3,13 +3,13 @@
 More Information sources: (the ones with :iran: are in Persian language) 
 
 - RUG website [Movin' to the University of Groningen](https://www.rug.nl/education/bachelor/international-students/study-in-the-netherlands-groningen/movin-to-groningen?lang=en)
-- Groningen Academic News: [https://ukrant.nl](https://ukrant.nl)
-  * Buying food [https://ukrant.nl/where-do-i-buy-food/?lang=en](https://ukrant.nl/where-do-i-buy-food/?lang=en) (Nazar for Halal & some Persian stuff)
+- Groningen Academic News: https://ukrant.nl
+  * Buying food https://ukrant.nl/where-do-i-buy-food/?lang=en (Nazar for Halal & some Persian stuff)
 - :iran: یوتیوب سهیل درخشان https://www.youtube.com/c/SoheilDerakhshan
-- Dutch Review website: [https://dutchreview.com](https://dutchreview.com) قسمت Living in Netherlands اطلاعات خوبی داره
-- Website for Expats: [https://www.iamexpat.nl](https://www.iamexpat.nl)
-- کتاب Holland Handbook [https://hollandhandbook.nl](https://hollandhandbook.nl)
-- List of Links [https://home.nl](https://home.nl)
+- Dutch Review website: https://dutchreview.com (قسمت Living in Netherlands اطلاعات خوبی داره)
+- Website for Expats: https://www.iamexpat.nl
+- کتاب Holland Handbook https://hollandhandbook.nl
+- List of Links https://home.nl
 
 
 ### Essentials:
@@ -33,11 +33,11 @@ Use  the above link to apply for your DigiD and use it for zorgtoeslag, huurtoes
 6) Here is the link of the GP registration : https://www.studentarts.nl/en/
 (Whether or not you trust or use their GP service you have to register with one and this one is for free if you have a European health insurance card) (Jiwoo knows already)
 
-7)  And if you want to order food then the two sites we usually use here are: 1) http://justeat.nl  2) https://www.thuisbezorgd.nl 
+7) Websites to order food: 1) http://justeat.nl  2) https://www.thuisbezorgd.nl 3) https://www.ubereats.com/nl
 
 8) The 40% discount with bus travel within Groningen can be found here: https://qbuzz.nl/GD/
 
-9) For people who like cats but can't keep  as pets: http://opznkop.nl/english
+9) For people who like cats but can't keep as pets: http://opznkop.nl/english
 
 10) Language centrum Groningen, for those interested in learning Dutch http://www.rug.nl/language-centre/language-courses/dutch/general-skills/
 

@@ -1,6 +1,6 @@
 ## More Info (بیشتر بدانیم)
 
-More Information sources: (the ones with :iran: are in Persian language) 
+More Information sources list: (the ones with :iran: are in Persian language) 
 
 - RUG website [Movin' to the University of Groningen](https://www.rug.nl/education/bachelor/international-students/study-in-the-netherlands-groningen/movin-to-groningen?lang=en)
 - Groningen Academic News: https://ukrant.nl

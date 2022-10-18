@@ -8,7 +8,7 @@ More Information sources: (the ones with :iran: are in Persian language)
 - :iran: یوتیوب سهیل درخشان https://www.youtube.com/c/SoheilDerakhshan
 - Dutch Review website: https://dutchreview.com (قسمت Living in Netherlands اطلاعات خوبی داره)
 - Website for Expats: https://www.iamexpat.nl
-- کتاب Holland Handbook https://hollandhandbook.nl
+- Book: Holland Handbook https://hollandhandbook.nl
 - List of Links https://home.nl
 
 

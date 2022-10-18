@@ -20,10 +20,10 @@ http://www.rug.nl/education/phd-programmes/graduate-schools/training-programme/i
 2) Here is where you can find the ECTS for different activities
 http://myuniversity.rug.nl/infonet/medewerkers/fse/gradschoolscience/trainingprogramme/activities-and-credit/recommended-credits-per-activity
 
-3) This is the course list by ACLO for the next block/period
-http://www.aclosport.nl/en/schedules/course-hours-4a/
+3) This is the ACLO Sport Centre website
+http://www.aclosport.nl/en/
 
-4) This is about zorgtoeslag
+4) This is about zorgtoeslag (Housing allowance)
 https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/toeslagen/zorgtoeslag/zorgtoeslag-2017/zorgtoeslag-2017
 
 5) DigiD application
@@ -33,7 +33,7 @@ Use  the above link to apply for your DigiD and use it for zorgtoeslag, huurtoes
 6) Here is the link of the GP registration : https://www.studentarts.nl/en/
 (Whether or not you trust or use their GP service you have to register with one and this one is for free if you have a European health insurance card) (Jiwoo knows already)
 
-7)  And if you want to order food then the two sites we usually use here are: 1) http://justeat.nl/  2) https://www.thuisbezorgd.nl/
+7)  And if you want to order food then the two sites we usually use here are: 1) http://justeat.nl  2) https://www.thuisbezorgd.nl 
 
 8) The 40% discount with bus travel within Groningen can be found here: https://qbuzz.nl/GD/
 

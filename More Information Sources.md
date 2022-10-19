@@ -5,6 +5,7 @@ More Information sources list: (the ones with :iran: are in Persian language)
 - RUG website [Movin' to the University of Groningen](https://www.rug.nl/education/bachelor/international-students/study-in-the-netherlands-groningen/movin-to-groningen?lang=en)
 - Groningen Academic News: https://ukrant.nl
   * Buying food https://ukrant.nl/where-do-i-buy-food/?lang=en (Nazar for Halal & some Persian stuff)
+- Cost of living in Groningen as a student https://youtu.be/RbUjL-wDN4I
 - :iran: یوتیوب سهیل درخشان https://www.youtube.com/c/SoheilDerakhshan
 - :iran: چی بیاریم؟ https://youtu.be/SBSIbdi955k
 - Dutch Review website: https://dutchreview.com (قسمت Living in Netherlands اطلاعات خوبی داره)

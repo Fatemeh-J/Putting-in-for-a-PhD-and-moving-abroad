@@ -47,7 +47,11 @@
  
  درمورد کد ITB توضیح میدن. زمانیکه بعنوان دانشجوی دکترا کارهای ثبت نامتون انجام میشه Individual Training Budget (ITB) را دریافت میکنین. این کد برای پرداخت های آموزشی مثل کنفرانس ها یا کورس ها استفاده میشه.
  
- و در آخر درمورد بیمه سلامت بهتون توضیح میدن.
+ و در آخر درمورد بیمه سلامت بهتون توضیح میدن، با معرفی SVB و اطلاعات بیشتر در لینک زیر:
+ 
+ https://www.svb.nl/en/the-wlz-scheme/manage-your-affairs-online/request-an-assessment-of-your-Wlz-insurance-position
+ 
+ 
  
  
  

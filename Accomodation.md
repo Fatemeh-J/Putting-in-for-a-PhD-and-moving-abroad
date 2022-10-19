@@ -23,7 +23,6 @@
 ### اقامت بلندمدت (خانه، اتاق)
 
 
-برای اجاره کردن خانه معمولا از سایت های Pararius.com و huurwoningen.com حدود چند هفته تا یکی دو ماه قبل میتوان اقدام کرد.
 - https://www.pararius.com
 - https://www.huurwoningen.com
 - https://directwonen.nl/en

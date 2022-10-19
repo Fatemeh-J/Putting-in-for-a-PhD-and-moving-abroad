@@ -54,3 +54,5 @@ Use  the above link to apply for your DigiD and use it for zorgtoeslag, huurtoes
 16) 9292 app can sometimes give you crappy sub-optimal travel advice. You can also download OVInfo app which gives you the real-time statuses of public transport when you enter the name of the bushalte or tramhalte.
  
 17) The bank's hypotheek activity is the liability insurance and home insurance.
+
+18) Check the weather [buienalarm.nl](https://www.buienalarm.nl/)

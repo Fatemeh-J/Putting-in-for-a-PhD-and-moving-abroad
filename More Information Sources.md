@@ -6,6 +6,7 @@ More Information sources list: (the ones with :iran: are in Persian language)
 - Groningen Academic News: https://ukrant.nl
   * Buying food https://ukrant.nl/where-do-i-buy-food/?lang=en (Nazar for Halal & some Persian stuff)
 - :iran: یوتیوب سهیل درخشان https://www.youtube.com/c/SoheilDerakhshan
+- :iran: چی بیاریم؟ https://youtu.be/SBSIbdi955k
 - Dutch Review website: https://dutchreview.com (قسمت Living in Netherlands اطلاعات خوبی داره)
 - Website for Expats: https://www.iamexpat.nl
 - Book: Holland Handbook https://hollandhandbook.nl

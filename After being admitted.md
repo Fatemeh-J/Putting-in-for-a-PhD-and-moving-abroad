@@ -12,15 +12,14 @@
 -	Elina Sietsema e.sietsema@rug.nl
 -	Jessica GIRO jessica.giro@uni.lu
 
-### مدارکی که طی ایمیل ازم خواسته شد:
+### مدارکی که ازتون ممکنه بخوان:
 - cv
 - copy of your Master diploma
 - copy of Master transcripts
 - copy of your passport
 - proof of English (IELTS or TOEFL test, Master fully taught in English or a letter written by your supervisor)
 - research proposal
-- filled out questionnaire (خودشون فرستادن فرمش رو)
-- signed contract (خودشون فرستادن فرمش رو)
+- filled out different forms (خودشون میفرستن فرم ها رو)
 
  ### ایمیل از horafinita
  
@@ -51,7 +50,10 @@
  
  https://www.svb.nl/en/the-wlz-scheme/manage-your-affairs-online/request-an-assessment-of-your-Wlz-insurance-position
  
+ ### ایمیل از طرف PhD Scholarship desk
+ یه ایمیل از طرف phd-scholarship@rug.nl دریافت میکنین که یه جورایی یه virtual helpdesk برای تحصیلات تکمیلی به حساب میان.
  
+ درمورد مالیات، حقوقتون، بیمه سلامت،کارت دانشجویی و... میتونین ایمیل بزنین و داهنمایی بخواین.
  
  
  

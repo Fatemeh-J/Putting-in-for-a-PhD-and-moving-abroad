@@ -10,7 +10,7 @@
 
 -	T.J. Woude, van der t.j.van.der.woude@rug.nl
 -	Elina Sietsema e.sietsema@rug.nl
--	Jessica GIRO jessica.giro@uni.lu
+
 
 ### مدارکی که ازتون ممکنه بخوان:
 - cv

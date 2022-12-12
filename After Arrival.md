@@ -1,5 +1,7 @@
 ## The very first day
-
+### Transport to and whithin Groningen
+This page explains about transport: https://www.rug.nl/education/master/international-students/study-in-the-netherlands-groningen/living-in-the-netherlands/transport
+You can check the train time tables using 9292 or NS mobile apps. There is free WiFi at the Schiphol airport.
 
 ## The first weeks
 

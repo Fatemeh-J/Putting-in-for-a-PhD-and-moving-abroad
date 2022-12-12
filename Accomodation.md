@@ -47,9 +47,12 @@
 - https://www.huurwoningen.com
 - https://directwonen.nl/en
 - https://www.funda.nl/
+- https://woldringverhuur.nl/ons-aanbod
+- https://rentbird.nl/nl
 - https://kamernet.nl/en
 
-البته kamernet حق عضویت ماهیانه میخواد.
+البته rentbird و kamernet حق عضویت ماهیانه میخواد.
+با توجه به تجربه ی شخصی، بین این دو گزینه ای که حق عضویت میخوان rentbird مورد موفقتری هست چون تعداد بسیار زیادی سایت رو بررسی میکنه و به محض اینکه خونه ای رو آگهی کنن که با اولویت های شما سازگار باشه به شما اطلاع میده.
 
 برای پیدا کردن اتاق و یا استودیو و آپارتمان
 

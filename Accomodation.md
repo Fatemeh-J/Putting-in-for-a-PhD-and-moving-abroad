@@ -11,7 +11,7 @@
 
 ### اقامت کوتاه مدت (هتل، استودیو، هاستل)
 
-- Simplon hustle that you can book from booking.com
+- Simplon hostel that you can book from booking.com
 
 این دوتا سایت استودیوهای دانشجویی طور با قیمت نسبتا خوب میدن. اما بیشتر مواقع پرن و در نتیجه پیدا کردنش کار راحتی نیست و چند ماه زودتر باید اقدام کرد.
 

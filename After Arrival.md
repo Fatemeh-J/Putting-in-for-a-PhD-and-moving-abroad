@@ -12,7 +12,7 @@ Once, you have a Dutch bank account you can request for a personal Ov-chip card 
 ### Transport to and within Groningen
 This page explains about transport: https://www.rug.nl/education/master/international-students/study-in-the-netherlands-groningen/living-in-the-netherlands/transport
 
-You can check the train time tables using 9292 or NS mobile apps. There is free WiFi at the Schiphol airport.
+There is free WiFi at the Schiphol airport, cafes, trains, and buses.
 
 ## The first weeks
 The most important thing is your appointment with Gemente (municipality). There you can get a BSN number which is usefull for bank account opening and tax authorities.

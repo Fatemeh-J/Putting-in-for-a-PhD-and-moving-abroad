@@ -14,7 +14,7 @@ This page explains about transport: https://www.rug.nl/education/master/internat
 
 There is free WiFi at the Schiphol airport, cafes, trains, and buses.
 
-## The first weeks
+## The first week
 The most important thing is your appointment with Gemente (municipality). There you can get a BSN number which is usefull for bank account opening and tax authorities.
 
 Where to buy what? https://www.expatica.com/nl/living/household/shopping-netherlands-130388/
@@ -26,8 +26,12 @@ Bank account: https://www.rug.nl/education/bachelor/international-students/finan
 
 ### Bicycle: 
 
-There are two options for bicycle:
+There are two options for bicycles:
 
+1.You can purchase a subscription from [OV-fiets](https://www.ns.nl/en/door-to-door/ov-fiets), [Swapfiets](https://swapfiets.nl/), [Go](https://nl.go-sharing.com/blog/go-explore-noord-nederland/)(as far as I know it is for electric bikes). As an instance, Swapfiets subscription is around 22Euros each month.
+
+
+2. Buy a second hand or new bicycle.
 
 For Iranians: [Gro Fietsen](https://maps.app.goo.gl/8bQVdTKod2d8Bqcd8)
 

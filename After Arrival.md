@@ -1,6 +1,7 @@
 ## The very first day
 
-ًSchiphol Airport has a train station, so you can buy an anonymous Ov-chip card and use it to check in for trains. You must install the NS program on your phone to know about the routes. This application can display train schedules. You can take a taxi or bus to your final destination once you arrive in Groningen at the hooftstation (Main station). The 9292 program is useful for tracking bus schedules.
+ًSchiphol Airport has a train station, so you can buy an anonymous Ov-chip card and use it to check in for trains. You must install the NS program on your phone to know about the routes. This application can display train schedules. You can take a taxi or bus to your final destination once you arrive in Groningen at the hooftstation (Main station). The 9292 program is useful for tracking bus schedules. 
+#### Keep in mind that you must check in and out of buses and trains:)
 
 You can purchase a prepaid sim card within the first week (for 3 days, or 7 days). Prepaid sim cards are available at the following locations:
 Albert Hein branches, Vodaphone stores(which is a provider), Primera.

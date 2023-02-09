@@ -14,5 +14,5 @@ There are some clubs where you can become a member for a small charge. As an ins
 https://www.aclosport.nl/en/sport/tennis/
 
 ## PhD Support
-In this [link](https://www.rug.nl/education/phd-programmes/during/phd-support/phd-support?lang=en) you can find more information about the support services. 
+In this [link](https://www.rug.nl/education/phd-programmes/during/phd-support/phd-support?lang=en) you can find more information about the mental support services. 
 They offer workshops on topics such as perfectionism, stress management, and so on. You can also request a brief conversation with one of the university's psychologists.

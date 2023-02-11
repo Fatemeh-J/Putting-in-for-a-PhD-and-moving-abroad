@@ -1,3 +1,5 @@
+First and foremost you can ask your questions from the secretaries in your department. They are knowledgeable and very helpful.
+
 ## Language Center
 If you want to participate in different language courses, you can find all the available courses in this [link](https://rugtc.poweredbymentor.nl/app/modules). Also, you can find more information about free Dutch courses [here](https://www.rug.nl/language-centre/language-courses/dutch/rug-international-students/).
 

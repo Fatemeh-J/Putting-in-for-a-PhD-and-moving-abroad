@@ -1,5 +1,5 @@
 ## Language Center
-If you want to participate in different language courses, you can find all the available courses in this [link](https://rugtc.poweredbymentor.nl/app/modules).
+If you want to participate in different language courses, you can find all the available courses in this [link](https://rugtc.poweredbymentor.nl/app/modules). Also, you can find more information about free Dutch courses [here](https://www.rug.nl/language-centre/language-courses/dutch/rug-international-students/).
 
 ## Sport
 If you want to participate in sport calsses. You must first obtain an [Aclo card](https://www.aclosport.nl/). After that, you have several options to do sports:

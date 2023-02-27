@@ -39,4 +39,4 @@ If you want to buy from an Iranian guy here is the option: [Gro Fietsen](https:/
 
 There are also some other second-hand bicycle stores which could be found in google maps. 
 
-You can also buy bicycle from Facebook Marketplace (be aware to get a purchase receipt of that guy)
+You can also buy bicycle from Facebook Marketplace (be aware to get a purchase receipt)

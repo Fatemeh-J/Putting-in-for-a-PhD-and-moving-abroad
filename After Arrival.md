@@ -35,7 +35,7 @@ There are two options for bicycles:
 
 2. Buy a second hand or new bicycle.
 
-For Iranians: [Gro Fietsen](https://maps.app.goo.gl/8bQVdTKod2d8Bqcd8)
+If you want to buy from an Iranian guy here is the option: [Gro Fietsen](https://maps.app.goo.gl/8bQVdTKod2d8Bqcd8)
 
 There are also some other second-hand bicycle stores which could be found in google maps. 
 

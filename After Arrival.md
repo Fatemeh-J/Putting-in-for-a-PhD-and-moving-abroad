@@ -18,12 +18,11 @@ There is free WiFi at the Schiphol airport, cafes, trains, and buses.
 ## The first week
 The most important thing is your appointment with Gemente (municipality). There you can get a BSN number which is usefull for bank account opening and tax authorities.
 
-Where to buy what? https://www.expatica.com/nl/living/household/shopping-netherlands-130388/
-
 Phone Sim card: https://dutchreview.com/expat/mobile-phones-netherlands/
 
 Bank account: https://www.rug.nl/education/bachelor/international-students/financial-matters/opening-dutch-bank-account?tcid=verint_10_14002_14009
 
+DigiD: It is related to Tax and after the BSN number you have to apply for it
 
 ### Bicycle: 
 

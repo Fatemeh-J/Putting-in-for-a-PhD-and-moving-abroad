@@ -24,6 +24,8 @@ The most important thing is your appointment with Gemente (municipality). There 
 
 - DigiD: It is related to Tax and after the BSN number you have to apply for it
 
+- health insurance: you have different options like AON, Menzis, and etc.
+
 ### Bicycle: 
 
 There are two options for bicycles:

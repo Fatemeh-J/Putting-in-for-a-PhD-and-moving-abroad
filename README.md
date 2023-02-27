@@ -9,7 +9,8 @@ If you want to know where to start reading this repo:
 5. What to pack
 6. Accomodation
 7. After Arrival
-8. Getting Familiar with RUG Services 
+8. Furnishing and Grocery Shopping
+9. Getting Familiar with RUG Services 
 
 
 FAQ and more information sources

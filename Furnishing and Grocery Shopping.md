@@ -25,3 +25,6 @@ Action(Not high quality necessary but cheap options), Xenos, Hemma, Blokker, Dil
 - Supermarkets like Jumbo, Albert Heijn, Lidl, Aldi, PLUS, and Spar
 
 - You can find Halal meat/Asian items from the following stores: Nazar, Zalal, and Familie Market
+
+
+In general if you are looking for more information about shopping here you can find more information in the following link: [Introduction to shopping in the Netherlands](https://www.expatica.com/nl/living/household/shopping-netherlands-130388/)

@@ -27,4 +27,9 @@ Action(Not high quality necessary but cheap options), Xenos, Hemma, Blokker, Dil
 - You can find Halal meat/Asian items from the following stores: Nazar, Zalal, and Familie Market
 
 
-In general if you are looking for more information about shopping here you can find more information in the following link: [Introduction to shopping in the Netherlands](https://www.expatica.com/nl/living/household/shopping-netherlands-130388/)
+In general, if you are looking for more information about shopping here you can it [here](https://www.expatica.com/nl/living/household/shopping-netherlands-130388/)
+
+## Healthcare 
+- Kruidvat as a pharmacy and drugstore chain specialising in health and beauty products
+- Etos as a grocery and drugstore
+- Holland & Barrett for buying natural beauty products and healthy food

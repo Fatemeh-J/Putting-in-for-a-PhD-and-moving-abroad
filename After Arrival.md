@@ -20,23 +20,23 @@ The most important thing is your appointment with Gemente (municipality). There 
 
 - Phone sim card: https://dutchreview.com/expat/mobile-phones-netherlands/
 
-- Bank account: https://www.rug.nl/education/bachelor/international-students/financial-matters/opening-dutch-bank-account?tcid=verint_10_14002_14009
+- Bank account: [This site](https://www.rug.nl/education/bachelor/international-students/financial-matters/opening-dutch-bank-account?tcid=verint_10_14002_14009) may be useful in providing an overview of Dutch banks. "Geldmaat" is the Dutch word for ATM. You must find a geldmaat if you want to deposit cash, however, all the geldmaats doesn't take notes. I know two of them: one in the Paddepoel, and the other is in the city center, near ABNAmro bank.
 
-- DigiD: It is related to Tax and after the BSN number you have to apply for it
+- DigiD: It is related to tax fairs, and you must apply for it after receiving your BSN number.
 
-- Health insurance: you have different options like AON, Menzis, and etc.
+- Health insurance: You have different options, including AON, Menzis, and etc. After applying for a health insurance, you have to send the insurance information to [here](https://www.studentarts.nl/).
 
 ### Bicycle: 
 
 There are two options for bicycles:
 
-1.You can purchase a subscription from [OV-fiets](https://www.ns.nl/en/door-to-door/ov-fiets), [Swapfiets](https://swapfiets.nl/), [Go](https://nl.go-sharing.com/blog/go-explore-noord-nederland/)(as far as I know it is for electric bikes). As an instance, Swapfiets subscription is around 22Euros each month.
+1. Rent a bike: You can purchase a subscription from [OV-fiets](https://www.ns.nl/en/door-to-door/ov-fiets), [Swapfiets](https://swapfiets.nl/), [Go](https://nl.go-sharing.com/blog/go-explore-noord-nederland/)(as far as I know it is for electric bikes). As an instance, Swapfiets subscription is around 23Euros each month.
 
 
-2. Buy a second hand or new bicycle.
+2. Buy a bicycle: It could be either new or second-hand.
 
-If you want to buy from an Iranian guy here is the option: [Gro Fietsen](https://maps.app.goo.gl/8bQVdTKod2d8Bqcd8)
+- Here is the option if you would like to purchase from an Iranian guy: [Gro Fietsen](https://maps.app.goo.gl/8bQVdTKod2d8Bqcd8)
 
-There are also some other second-hand bicycle stores which could be found in google maps. 
+- There are also some other second-hand bicycle stores which could be found in google maps. 
 
-You can also buy bicycle from Facebook Marketplace (be aware to get a purchase receipt)
+- You can also buy bicycle from Facebook Marketplace (be aware to get a purchase receipt)

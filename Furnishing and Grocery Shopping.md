@@ -3,11 +3,12 @@ If you are renting an unfurnished place, which is common in here, don't worry. H
 
 ### Furnishing with new items
 
-Ikea (the most cost-effective), Leen bakker, Metzorggemaakt, Kruit & Kramer
+Ikea (the most cost-effective), Leen bakker, Metzorggemaakt, Kruit & Kramer, and MediaMarkt (for electric items)
 
 Also, you can find affordable home appliances in the following stores:
-
 Action(Not high quality necessary but cheap options), Xenos, Hemma, Blokker, Dille & Kamille (mostly related to kitchen and plants), Søstrene Grene
+
+
 
 ### Furnishing with secondhand items
 
@@ -15,7 +16,7 @@ Action(Not high quality necessary but cheap options), Xenos, Hemma, Blokker, Dil
 
 - Marktplaats (It has a website and a facebook account which you can buy or sell items)
 
-- If you are looking for more options you can search Kringloop in Googlemap and find many more options
+- If you are looking for more options you can search Kringloop in Googlemap and find many more options. Some of them offer delivery. As an example, Kringloop Plus charges 15 Euros for delivery within the city.
 
 - For electric items you can check Herman white goods.
 

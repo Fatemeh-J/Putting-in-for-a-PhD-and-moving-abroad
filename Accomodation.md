@@ -1,8 +1,21 @@
 ## اقامت در هلند-شهر خرونینگن 
 
+"English version"
+
+Many of the websites that are introduced below may overlap with other cities in the Netherlands or some European countries. However, the focus here is on the city of Groningen. It should be noted that finding a house in the Netherlands has become difficult in recent years.
+
+If you want to come in the months of July, August, and September, which are peak months for requests, you should have reserved a place a few months in advance. 
+
+Some housing ads require you to provide a salary statement 3 or 4 times of the rent payment, which is impossible for a student. As an alternative, you can refer to these two cases: One, to persuade the landlord, you can provide a bank statement. Two, a signed letter from your parents who have the ability and are willing to help you pay the rent.
+
+As some general references for getting a house, these websites can be introduced: [list of websites].
+
+"Farsi version"
+
 خیلی از وبسایت هایی که در ادامه معرفی شده ممکنه با بقیه شهرهای هلند و یا چندتا از کشورهای اروپایی هم پوشانی داشته باشه. اما تمرکز در اینجا روی شهر خرونینگن هست. این نکته قابل توجه هست که در چند سال اخیر خونه پیدا کردن در هلند سخت شده.
 
 اگر در ماه های جولای، آگست، سپتامبر که ماه های اوج درخواست هست میخواهید بیایید باید از چند ماه قبل مثلا جایی را موقت داشته باشید.
+
 
 بعضی از آگهی های خونه ازتون فیش حقوقی چند برابر اجاره خونه میخوان که بعنوان دانشجو داشتنش محاله. برای راه جایگزین میشه به این موارد اشاره کرد: یک، برای قانع کردن صاحبخونه میتونید یه گزارش از حساب بانکی ارايه کنین. دو، یه نامه امضا شده از والدینتون که هم توانمندیشو دارن و هم مایلن به شما در پرداخت اجاره کمک کنن
 
@@ -11,7 +24,7 @@
 - https://www.athomeingroningen.com/
 - https://www.lefier.nl/
 
-### اقامت کوتاه مدت (هتل، استودیو، هاستل)
+### Short Stayاقامت کوتاه مدت (هتل، استودیو، هاستل)
 
 - Simplon hostel that you can book from booking.com
 
@@ -42,7 +55,7 @@
 
 
 
-### اقامت بلندمدت (خانه، اتاق)
+### Long Stay اقامت بلندمدت (خانه، اتاق)
 
 
 - https://www.pararius.com

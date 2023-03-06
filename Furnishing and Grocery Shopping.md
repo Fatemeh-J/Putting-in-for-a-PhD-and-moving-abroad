@@ -6,13 +6,13 @@ If you are renting an unfurnished place, which is common in here, don't worry. H
 Ikea (the most cost-effective), Leen bakker, Metzorggemaakt, Kruit & Kramer, and MediaMarkt (for electric items)
 
 Also, you can find affordable home appliances in the following stores:
-Action(Not high quality necessary but cheap options), Xenos, Hemma, Blokker, Dille & Kamille (mostly related to kitchen and plants), Søstrene Grene
+Action(Not high quality necessary but cheap options), Xenos, Hemma, Blokker, Dille & Kamille (mostly related to kitchen and plants), Søstrene Grene, and Solow
 
 
 
 ### Furnishing with secondhand items
 
-- Mamamini (there is 3 branches in Groningen and you can borrow a cargo bike to bring the stuff to your own place)
+- Mamamini (there is 3 branches in Groningen and you can borrow a cargo bike to bring the stuff to your own place). Also, you can check Oude Ebbingestraat to find more stores sells second hand items.
 
 - Marktplaats (It has a website and a facebook account which you can buy or sell items)
 
@@ -25,7 +25,7 @@ Action(Not high quality necessary but cheap options), Xenos, Hemma, Blokker, Dil
 
 - Supermarkets like Jumbo, Albert Heijn, Lidl, Aldi, PLUS, and Spar
 
-- You can find Halal meat/Asian items from the following stores: Nazar, Zalal, and Familie Market
+- You can find Halal_meat/persian/arabic/turkish items from the following stores: Nazar, Zalal, and Familie Market
 
 
 In general, if you are looking for more information about shopping here you can it [here](https://www.expatica.com/nl/living/household/shopping-netherlands-130388/) and [here](https://ukrant.nl/where-do-i-buy-food/?lang=en)

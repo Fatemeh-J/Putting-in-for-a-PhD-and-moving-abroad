@@ -21,7 +21,7 @@ The most important thing is your appointment with Gemente (municipality). There 
 
 - DigiD: It is related to tax fairs, and you must apply for it from this [link](https://digid.nl/aanvragen) after receiving your BSN number. (DigiD can be used later for zorgtoeslag, huurtoeslag, etc.) .
 
-- Health insurance: You have different options, including AON, Menzis, and etc. After applying for a health insurance, you have to send the insurance information to [here](https://www.studentarts.nl/).
+- Health insurance: You have different options, including AON, Menzis, and etc. After applying for a health insurance, you have to send the insurance information to [here](https://www.studentarts.nl/) in order to register for a GP. (Whether or not you trust or use their GP service you have to register with one and this one is for free if you have a European health insurance card) (Jiwoo knows already)
 
 ### Bicycle: 
 

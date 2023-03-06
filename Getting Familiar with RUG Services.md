@@ -17,4 +17,4 @@ https://www.aclosport.nl/en/sport/tennis/
 
 ## PhD Support
 In this [link](https://www.rug.nl/education/phd-programmes/during/phd-support/phd-support?lang=en) you can find more information about the mental support services. 
-They offer workshops on topics such as perfectionism, stress management, and so on. You can also request a brief conversation with one of the university's psychologists.
+They offer workshops on topics such as perfectionism, stress management, and so on. You can also request a brief conversation with one of the university's psychologists. You can email them on this address: ssc-info@rug.nl to ask for a meeting. 

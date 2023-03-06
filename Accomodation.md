@@ -8,7 +8,7 @@ If you want to come in the months of July, August, and September, which are peak
 
 Some housing ads require you to provide a salary statement 3 or 4 times of the rent payment, which is impossible for a student. As an alternative, you can refer to these two cases: One, to persuade the landlord, you can provide a bank statement. Two, a signed letter from your parents who have the ability and are willing to help you pay the rent.
 
-As some general references for getting a house, these websites can be introduced: [list of websites].
+As some general references for getting a house, these websites can be introduced.
 
 "Farsi version"
 

@@ -23,13 +23,6 @@ http://myuniversity.rug.nl/infonet/medewerkers/fse/gradschoolscience/trainingpro
 4) This is about zorgtoeslag (Insurance allowance)
 https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/toeslagen/zorgtoeslag/zorgtoeslag-2017/zorgtoeslag-2017
 
-5) DigiD application
-https://digid.nl/aanvragen
-Use  the above link to apply for your DigiD and use it for zorgtoeslag, huurtoeslag, etc.
-
-6) Here is the link of the GP registration : https://www.studentarts.nl/en/
-(Whether or not you trust or use their GP service you have to register with one and this one is for free if you have a European health insurance card) (Jiwoo knows already)
-
 7) Websites to order food: 1) http://justeat.nl  2) https://www.thuisbezorgd.nl 3) https://www.ubereats.com/nl
 
 8) The 40% discount with bus travel within Groningen can be found here: https://qbuzz.nl/GD/
@@ -39,8 +32,6 @@ Use  the above link to apply for your DigiD and use it for zorgtoeslag, huurtoes
 11) Might be interesting for people who like climbing and bouldering- Bouldergym http://www.gropo.nl/
 
 12) If your mail box at home is being flooded by advertisement and local newspaper then get a "Nee/Nee" sticker for free from the Gemeente at Kreupelstaat (near Martini tower)to stop both. Get a "Nee/Ja" or "Ja/Nee"sticker if you opt for stopping just the advertisements.
-
-13) Cheap new stuff can be bought at Action or SoLow, 2nd-hand shops in addition to Mamamini are Used Products shop on Oude Ebbingestraat.
 
 14) The Amazon equivalent of the Netherlands is bol.com. Also, you can access Amzon website through this link: Amazon.nl
 

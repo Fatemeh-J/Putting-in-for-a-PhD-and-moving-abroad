@@ -23,6 +23,7 @@ As some general references for getting a house, these websites can be introduced
 
 - https://www.athomeingroningen.com/
 - https://www.lefier.nl/
+
 همچنین یه گروه توی Facebook هست به نام Groningen Housing که میتونین خونه یا استودیو بصورت موقت یا دایم پیدا کنین.
 
 ### Short Stayاقامت کوتاه مدت (هتل، استودیو، هاستل)

@@ -19,6 +19,7 @@ The most important thing is your appointment with Gemente (municipality). There 
 
 - Bank account: [This site](https://www.rug.nl/education/bachelor/international-students/financial-matters/opening-dutch-bank-account?tcid=verint_10_14002_14009) may be useful in providing an overview of Dutch banks. You must find a geldmaat if you want to deposit cash. "Geldmaat" is the Dutch word for ATM. Keep in mind that all the geldmaats doesn't take notes. I know two of them in Groningen: one in the Paddepoel, and the other is in the city center, near ABNAmro bank.
   - It may take some time opening a Dutch banck account. You can consider online banks like Revolut. 
+  - While a €10, €20, and €100 (not always) is accepted everywhere without issue, none of the stores accept €200 and €500 notes. 
 
 - DigiD: It is related to tax fairs, and you must apply for it from this [link](https://digid.nl/aanvragen) after receiving your BSN number. (DigiD can be used later for zorgtoeslag, huurtoeslag, etc.) .
 

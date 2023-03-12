@@ -1,6 +1,6 @@
 ## The very first day
 
-ًSchiphol Airport has a train station, so you can buy an anonymous Ov-chip card and use it to check in for trains. You must install the NS program on your phone to know about the routes. This application can display train schedules. You can take a taxi or bus to your final destination once you arrive in Groningen at the hooftstation (Main station). The 9292 program is useful for tracking bus schedules.
+ًSchiphol Airport has a train station, so you can buy an anonymous Ov-chip card and use it to check in for trains. You must install the NS application on your phone to know about the routes. This application can display train schedules. You can take a taxi or bus to your final destination once you arrive in Groningen at the hooftstation (Main station). The 9292 application is useful for tracking bus schedules.
 
 #### Keep in mind that you must check in and out of buses and trains :)
 

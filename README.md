@@ -13,4 +13,4 @@ If you want to know where to start reading this repo:
 9. [Getting Familiar with RUG Services](./Getting%20Familiar%20with%20RUG%20Services.md)
 
 
-FAQ and more information sources
+[FAQ](./FAQ.md) and [more information sources](./More%20Information%20Sources.md)

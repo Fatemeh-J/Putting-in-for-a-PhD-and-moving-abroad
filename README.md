@@ -2,15 +2,15 @@
 In this Repo, native Farsi speakers share their experiences about the international Ph.D. application and study abroad processes.
 
 If you want to know where to start reading this repo:
-1. [Find a PhD Position]("./Find a PhD Position.md")
-2. [After being admitted]("./After being admitted.md")
-3. [Immigration affairs]("./Immigration affairs.md")
-4. [Flight booking]("./Flight booking.md")
-5. [What to pack]("./What to pack.md")
+1. [Find a PhD Position](./Find%20a%20PhD%20Position.md)
+2. [After being admitted](./After%20being%20admitted.md)
+3. [Immigration affairs](./Immigration%20affairs.md)
+4. [Flight booking](./Flight%20booking.md)
+5. [What to pack](./What%20to%20pack.md)
 6. [Accomodation](./Accomodation.md)
-7. [After Arrival]("./After Arrival.md")
-8. [Furnishing and Grocery Shopping]("./Furnishing and Grocery Shopping.md")
-9. [Getting Familiar with RUG Services]("./Getting Familiar with RUG Services.md") 
+7. [After Arrival](./After%20Arrival.md)
+8. [Furnishing and Grocery Shopping](./Furnishing%20and%20Grocery%20Shopping.md)
+9. [Getting Familiar with RUG Services](./Getting%20Familiar%20with%20RUG%20Services.md") 
 
 
 FAQ and more information sources

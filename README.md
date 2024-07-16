@@ -10,7 +10,7 @@ If you want to know where to start reading this repo:
 6. [Accomodation](./Accomodation.md)
 7. [After Arrival](./After%20Arrival.md)
 8. [Furnishing and Grocery Shopping](./Furnishing%20and%20Grocery%20Shopping.md)
-9. [Getting Familiar with RUG Services](./Getting%20Familiar%20with%20RUG%20Services.md") 
+9. [Getting Familiar with RUG Services](./Getting%20Familiar%20with%20RUG%20Services.md)
 
 
 FAQ and more information sources
